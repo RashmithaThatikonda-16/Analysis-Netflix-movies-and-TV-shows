@@ -39,6 +39,3 @@ Dataset Source: [Netflix Movies & TV Shows - Kaggle](https://www.kaggle.com/data
 
 ---
 
-## ⚙️ Installation & Usage
--git clone https://github.com/RashmithaThatikonda/netflix-data-analysis.git
-   cd netflix-data-analysis
